@@ -1,0 +1,24 @@
+
+
+// IOC (Inversion Of Control) and Dependency Injection
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
+
+
+
+/*
+Spring is a lightweight framework.
+and called as framework of frameworks
+
+Frameworks include => Struts, Hibernate, Tapestry, EJB, JSF, etc.
+
+Spring basic Modules => IOC, AOP, DAO, Context, ORM, WEB MVC etc.
+
+*/
