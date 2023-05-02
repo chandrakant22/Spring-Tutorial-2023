@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans  
+                http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+
+
+
+	<!-- Topic 1 : Autowiring byName-->
+	<bean id="add" class="model.Address">
+		<property name="plotNo" value="868"></property>
+		<property name="city" value="Nagpur"></property>
+		<property name="state" value="Maha"></property>
+		<property name="pin" value="440013"></property>
+	</bean>
+
+	<bean id="emp" class="model.Employee" autowire="byName">
+        <property name="id" value="888"></property>
+		<property name="name" value="sham"></property>
+	</bean>
+	<!-- Topic 1 -->
+
+
+<!-- Topic 2: Autowiring -->
+	<bean id="add1" class="model.Address">
+		<property name="plotNo" value="868"></property>
+		<property name="city" value="Nagpur"></property>
+		<property name="state" value="Maha"></property>
+		<property name="pin" value="440013"></property>
+	</bean>
+
+	<bean id="emp2" class="model.Employee" autowire="byType">
+        <property name="id" value="888"></property>
+		<property name="name" value="sham"></property>
+	</bean>
+	<!-- Topic  -->
+
+</beans>
