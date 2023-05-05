@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=Day-04/C:\/Users\/asterisc\/.m2\/repository\/org\/springframework\/spring-aop\/5.3.27\/spring-aop-5.3.27.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-aop=/=/maven.version=/5.3.27=/=/maven.scope=/compile=/&lt;org.springframework.aop(ThrowsAdvice.class[ThrowsAdvice" modifiers="1537" timestamp="1683193358462"/>
+<typeInfo handle="=Day-04/C:\/Users\/asterisc\/.m2\/repository\/org\/junit\/jupiter\/junit-jupiter-api\/5.8.2\/junit-jupiter-api-5.8.2.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/test=/true=/=/maven.groupId=/org.junit.jupiter=/=/maven.artifactId=/junit-jupiter-api=/=/maven.version=/5.8.2=/=/maven.scope=/test=/&lt;org.junit.jupiter.api.function(ThrowingConsumer.class[ThrowingConsumer" modifiers="1537" timestamp="1668417761694"/>
+<typeInfo handle="=Day-04/C:\/Users\/asterisc\/.m2\/repository\/org\/assertj\/assertj-core\/3.22.0\/assertj-core-3.22.0.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/test=/true=/=/maven.groupId=/org.assertj=/=/maven.artifactId=/assertj-core=/=/maven.version=/3.22.0=/=/maven.scope=/test=/&lt;org.assertj.core.api(ThrowingConsumer.class[ThrowingConsumer" modifiers="1537" timestamp="1668417768232"/>
+</typeInfoHistroy>
