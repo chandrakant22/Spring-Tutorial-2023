@@ -13,4 +13,9 @@
 <fullyQualifiedTypeName name="in.asterisc.Day02.BusinessLogic"/>
 <fullyQualifiedTypeName name="org.springframework.aop.AfterReturningAdvice"/>
 <fullyQualifiedTypeName name="org.aopalliance.intercept.MethodInterceptor"/>
+<fullyQualifiedTypeName name="org.aspectj.lang.annotation.Aspect"/>
+<fullyQualifiedTypeName name="org.aspectj.lang.annotation.Pointcut"/>
+<fullyQualifiedTypeName name="org.aspectj.lang.annotation.Before"/>
+<fullyQualifiedTypeName name="org.aspectj.lang.JoinPoint"/>
+<fullyQualifiedTypeName name="org.aspectj.lang.annotation.After"/>
 </qualifiedTypeNameHistroy>

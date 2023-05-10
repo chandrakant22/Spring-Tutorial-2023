@@ -4,6 +4,7 @@ public class BusinessLogic {
 	
 	public void msg()
 	{
+		
 		System.out.println("msg method invoked");
 	}  
     public int m()

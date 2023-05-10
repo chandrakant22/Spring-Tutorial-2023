@@ -17,6 +17,10 @@ public class Day05Application {
 		bl.msg();
 		bl.k();
 		
+		
+		
+		
+		
 	}
 
 }
