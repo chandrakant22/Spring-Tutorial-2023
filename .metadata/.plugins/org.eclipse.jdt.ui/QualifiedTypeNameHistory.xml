@@ -7,8 +7,6 @@
 <fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
 <fullyQualifiedTypeName name="model.Employee"/>
-<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
-<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
 <fullyQualifiedTypeName name="org.springframework.aop.MethodBeforeAdvice"/>
 <fullyQualifiedTypeName name="in.asterisc.Day02.BusinessLogic"/>
 <fullyQualifiedTypeName name="org.springframework.aop.AfterReturningAdvice"/>
@@ -18,4 +16,13 @@
 <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Before"/>
 <fullyQualifiedTypeName name="org.aspectj.lang.JoinPoint"/>
 <fullyQualifiedTypeName name="org.aspectj.lang.annotation.After"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="org.springframework.orm.hibernate3.HibernateTemplate"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="in.asterisc.Day06.model.EmployeeDao"/>
+<fullyQualifiedTypeName name="in.asterisc.Day06.model.Employee"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
 </qualifiedTypeNameHistroy>
