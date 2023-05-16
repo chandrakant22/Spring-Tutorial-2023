@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+welcome to Register Page
+
+<form action="#" th:action="@{/show}" th:object="${stud}">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"  th:field="*{fname}" ><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" th:field="*{lname}"><br>
+  <label for="lname">Address:</label><br>
+  <input type="text" id="lname" name="address" th:field="*{address}"><br><br>
+  <input type="submit" value="Submit">
+</form>
+</body>
+</html>

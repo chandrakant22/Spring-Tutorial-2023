@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+welcome to Show Page
+Object Data : <h1 th:text = "${stud}">object</h1><br/><br/><br/>
+<div th:object = "${stud}">  
+    <h1 th:text = "${fname}">F Name</h1>
+    <h1 th:text = "${stud.lname}">L Name</h1>
+    <h1 th:text = "${stud.address}">Address</h1>
+ </div>
+
+</body>
+</html>
